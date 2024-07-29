@@ -21,7 +21,7 @@ Welcome to the classic **Snake Game**! 🎮 This project is a modern take on the
 2. **Control the Snake**:
    - Use the **Arrow Keys** ⬅️⬆️➡️⬇️ to navigate the snake.
    - Avoid the snake hitting the walls or itself.
-3. **Grow and Score**: Eat the food items 🍎 to grow the snake and increase your score.
+3. **Grow and Score**: Eat the food items 🟩 to grow the snake and increase your score.
 4. **Game Over**: Try to beat your high score before the snake crashes!
 
 ## Installation 🚀
